@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, ben Fhoozy Lyrocks</h1>
-<h3 align="center">A Discord bot developer from Turkey</h3>
+<h3 align="center">It's not my idea</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1004442883333570570/1026027713741463562/pp.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhoozy&label=Profile%20views&color=000000&style=plastic" alt="fhoozy" /> </p>
