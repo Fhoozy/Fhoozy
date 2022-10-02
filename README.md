@@ -8,6 +8,7 @@
 
 - Ücretli özel discord botları için discorddan bana ulaşın!
 
+<img src="https://lanyard-profile-readme.vercel.app/api/483657756310765591?theme=light&amp;bg=7ad3f5&amp;animated=true&amp;hideDiscrim=true&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
