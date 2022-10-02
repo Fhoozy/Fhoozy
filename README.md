@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhoozy&label=Profile%20views&color=000000&style=plastic" alt="fhoozy" /> </p>
 
-- Fhoozy Lyrocsk / canflowe
+- Fhoozy Lyrocks / canflowe
 
 - Ücretli özel discord botları için discorddan bana ulaşın!
 
