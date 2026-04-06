@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Fhoozy/Fhoozy/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://github.com/Fhoozy/UsefulImages/blob/main/Images/Fhoozy%20Github%20Banner.png)
 ![](https://komarev.com/ghpvc/?username=Fhoozy&color=blue)
 <div align="center">
  <a href="https://github.com/Fhoozy">
