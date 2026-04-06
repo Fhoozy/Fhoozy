@@ -7,7 +7,9 @@
 </div>
 
 <h3 align="center">&nbsp; Hi! I'm Can.</h3>
-```yml
+
+<p align="center">
+```js
 const Fhoozy = {
     name: "Can Aydın",
     username: "Fhoozy Lyrocks",
