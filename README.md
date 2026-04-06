@@ -1,12 +1,9 @@
-![MasterHead](https://github.com/Fhoozy/UsefulImages/blob/main/Images/Fhoozy%20Github%20Banner.png)
-![](https://komarev.com/ghpvc/?username=Fhoozy&color=blue)
-
 <p align="center">
   <img src="https://github.com/Fhoozy/UsefulImages/blob/main/Images/Fhoozy%20Github%20Banner.png">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fhoozy&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Fhoozy&color=black"/>
 </p>
 
 </div>
