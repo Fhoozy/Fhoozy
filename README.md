@@ -11,7 +11,7 @@
 <h3 align="center">&nbsp; Hi! I'm Can.</h3>
 
 <h3 align="left">You Can Contact With Me:</h3>
-
+![Discord](https://discord.com/users/1181590782260555798)
 </p>
 
 # ✅ Languages I Know:
