@@ -12,7 +12,7 @@
 
 <h3 align="left">You Can Contact With Me On Discord:</h3>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1181590782260555798?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20&idleMessage=Developing%20Discord%20Bots" />
+  <img src="https://lanyard.cnrad.dev/api/1181590782260555798?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12" />
 </p>
 
 # ✅ Languages I Know:
