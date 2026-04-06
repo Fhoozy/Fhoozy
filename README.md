@@ -11,7 +11,8 @@
 <h3 align="center">&nbsp; Hi! I'm Can.</h3>
 
 <h3 align="left">You Can Contact With Me:</h3>
-![Discord](https://discord.com/users/1181590782260555798)
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_IDIN?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20&idleMessage=Developing%20Discord%20Bots" />
 </p>
 
 # ✅ Languages I Know:
