@@ -10,9 +10,14 @@
 
 <h3 align="center">&nbsp; Hi! I'm Can.</h3>
 
-<h3 align="left">You Can Contact With Me On Discord:</h3>
+<h3 align="center">💬 Contact me on Discord</h3>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1181590782260555798?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12" />
+  <a href="https://discord.com/users/1181590782260555798">
+    <img 
+      src="https://lanyard.cnrad.dev/api/1181590782260555798?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=12"
+      alt="Discord Presence"
+    />
+  </a>
 </p>
 
 # ✅ Languages I Know:
