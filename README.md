@@ -6,13 +6,22 @@
  </a>
 </div>
 
-
-
-<h3 align="left">&nbsp; Developing Discord Applications</h3>
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Fhoozy?theme=unicorn)](https://leetcode.com/Fhoozy/)
-
+<h3 align="center">&nbsp; Hi! I'm Can.</h3>
+```yml
+const Fhoozy = {
+    name: "Can Aydın",
+    username: "Fhoozy Lyrocks",
+    Languages: [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "JAVA",
+    ],
+    currentFocus: "Developing Discord Applications"
+}
+```
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -50,21 +59,12 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/Fhoozy/Fhoozy/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/Fhoozy/UsefulImages/blob/main/Images/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fhoozy&theme=material-palenight&hide_border=false" alt="Fhoozy" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Fhoozy/Fhoozy/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/Fhoozy/UsefulImages/blob/main/Images/Bird%20Wing%20Right.png">
   </a>
 </p>
  
-
-
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fhoozy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Fhoozy/github-readme-stats)
--->
-
 
 <br />
 
