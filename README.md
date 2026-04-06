@@ -47,25 +47,6 @@
 
 
 
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Fhoozy/Fhoozy/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fhoozy&theme=material-palenight&hide_border=false" alt="Fhoozy" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Fhoozy/Fhoozy/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
-
-
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fhoozy&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Fhoozy/github-readme-stats)
--->
-
-
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=Fhoozy&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
@@ -75,13 +56,3 @@
 
 
 <br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
