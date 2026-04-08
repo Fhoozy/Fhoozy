@@ -24,19 +24,19 @@ I'm a full-stack developer specializing in JavaScript and TypeScript. I working 
 
 <a href="https://discord.com/users/1181590782260555798">
 <img src="https://img.shields.io/badge/My Discord Profile-000000?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+</a>&nbsp;
 
 <a href="https://github.com/Fhoozy">
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github">
-</a>
+</a>&nbsp;
 
 <a href="https://instagram.com/canflowe">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+</a>&nbsp;
 
 <a href="https://twitter.com/nerdeyizla">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
+</a>&nbsp;
 
 <a href="https://discord.gg/lyr">
 <img src="https://img.shields.io/badge/My Discord Server-000000?style=for-the-badge&logo=discord&logoColor=white">
