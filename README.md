@@ -23,15 +23,15 @@ I'm a full-stack developer specializing in JavaScript and TypeScript. I working 
 <p align="center">
 
 <a href="https://discord.com/users/1181590782260555798">
-<img src="https://img.shields.io/badge/My Discord Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/My Discord Profile-000000?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 <a href="https://github.com/Fhoozy">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://instagram.com/canflowe">
-<img src="https://img.shields.io/badge/Instagram-fe0363?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://twitter.com/nerdeyizla">
@@ -39,7 +39,7 @@ I'm a full-stack developer specializing in JavaScript and TypeScript. I working 
 </a>
 
 <a href="https://discord.gg/lyr">
-<img src="https://img.shields.io/badge/My Discord Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/My Discord Server-000000?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </p>
