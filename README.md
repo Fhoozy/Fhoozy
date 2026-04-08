@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fhoozy/UsefulImages/blob/main/Images/Fhoozy%20Github%20Banner.png">
+  <img src="https://github.com/Fhoozy/UsefulImages/blob/main/Images/Fhoozy%20Github%20Banner%202.png">
 </p>
 
 <p align="center">
