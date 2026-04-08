@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fhoozy&color=blue"/>
+  <a href="https://github.com/Fhoozy">
+    <img src="https://count.getloli.com/@Fhoozy?theme=booru-qualityhentais" alt="Fhoozy Profile Views" />
+  </a>
 </p>
-
-</div>
 
 <h3 align="center">&nbsp; Hi! I'm Can.</h3>
 
